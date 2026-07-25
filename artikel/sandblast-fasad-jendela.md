@@ -53,6 +53,20 @@ sources:
 - Later, sprinkle `Teman Kacatempered.co.id`, `Sobat Kacatempered.co.id`, or `Kawan Kacatempered.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
 - Do not use a generic industry-history or “Di era digital” introduction.
 
+
+<!-- BEGIN MANAGED IMAGE PLAN -->
+## Image plan
+
+- **Image ID:** `EXT-001`
+- **Source type:** `wikimedia-commons`
+- **Placement:** after the opening has answered the main question, before the first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi GA 2-15 (lightsleeper), 2015, sandblasted glass and wall colour, 225x104cm.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/GA_2-15_%28lightsleeper%29%2C_2015%2C_sandblasted_glass_and_wall_colour%2C_225x104cm.jpg/1920px-GA_2-15_%28lightsleeper%29%2C_2015%2C_sandblasted_glass_and_wall_colour%2C_225x104cm.jpg)`
+- **Caption/credit:** http://www.karlheinzbux.de/ — CC BY-SA 4.0 — Wikimedia Commons. [Sumber](https://commons.wikimedia.org/wiki/File:GA_2-15_(lightsleeper),_2015,_sandblasted_glass_and_wall_colour,_225x104cm.jpg); lisensi [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Selection basis:** filename/source metadata identifies `GA 2-15 (lightsleeper), 2015, sandblasted glass and wall colour, 225x104cm.jpg` as relevant content media; no pixels were inspected.
+- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: EXT-001]` and continue drafting the prose.
+<!-- END MANAGED IMAGE PLAN -->
+
 ## Evidence packet
 
 Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
